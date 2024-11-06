@@ -1,4 +1,4 @@
-package main
+package database
 
 const (
 	DBHost  = "127.0.0.1"
@@ -6,5 +6,4 @@ const (
 	DBUser  = "postgres"
 	DBPass  = "123"
 	DBDbase = "sigma-go-rest-api"
-	PORT    = ":8080"
 )
